@@ -112,7 +112,7 @@ export default (express, bodyParser, createReadStream, writeFileSync, crypto, ht
     })
 
     .all('/*', (req, res) => {
-        res.end("anavitbel");
+        res.end("andreyafan20022202");
     })
 
     return app;
